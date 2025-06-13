@@ -1,0 +1,388 @@
+{
+  "operator": "Polkomtel Sp. z o.o.",
+  "services": [
+    "Telefon komórkowy",
+    "Internet mobilny",
+    "Usługi dodatkowe"
+  ],
+  "publication_date": "02/06/2025",
+  "currency": "PLN",
+  "offers": [
+    {
+      "name": "Plus Plan S",
+      "description": "Abonament w czasie oznaczonym",
+      "price": "50 zł",
+      "elements": {
+        "minutes_to_mobile_and_landline": "Nielimitowane",
+        "sms_to_national_networks": "Nielimitowane",
+        "mms_to_national_networks": "Nielimitowane",
+        "data_limit": "6 GB",
+        "data_speed_after_limit": "32 kb/s",
+        "additional_services": [
+          "VoLTE",
+          "WiFi Calling+"
+        ]
+      }
+    },
+    {
+      "name": "Plus Plan S",
+      "description": "Abonament po czasie oznaczonym",
+      "price": "55 zł",
+      "elements": {
+        "minutes_to_mobile_and_landline": "Nielimitowane",
+        "sms_to_national_networks": "Nielimitowane",
+        "mms_to_national_networks": "Nielimitowane",
+        "data_limit": "6 GB",
+        "data_speed_after_limit": "32 kb/s",
+        "additional_services": [
+          "VoLTE",
+          "WiFi Calling+"
+        ]
+      }
+    },
+    {
+      "name": "Plus Plan M",
+      "description": "Abonament w czasie oznaczonym",
+      "price": "70 zł",
+      "elements": {
+        "minutes_to_mobile_and_landline": "Nielimitowane",
+        "sms_to_national_networks": "Nielimitowane",
+        "mms_to_national_networks": "Nielimitowane",
+        "data_limit": "60 GB",
+        "data_speed_after_limit": "1 Mb/s",
+        "additional_services": [
+          "VoLTE",
+          "WiFi Calling+"
+        ]
+      }
+    },
+    {
+      "name": "Plus Plan M",
+      "description": "Abonament po czasie oznaczonym",
+      "price": "75 zł",
+      "elements": {
+        "minutes_to_mobile_and_landline": "Nielimitowane",
+        "sms_to_national_networks": "Nielimitowane",
+        "mms_to_national_networks": "Nielimitowane",
+        "data_limit": "60 GB",
+        "data_speed_after_limit": "1 Mb/s",
+        "additional_services": [
+          "VoLTE",
+          "WiFi Calling+"
+        ]
+      }
+    },
+    {
+      "name": "Plus Plan L",
+      "description": "Abonament w czasie oznaczonym",
+      "price": "100 zł",
+      "elements": {
+        "minutes_to_mobile_and_landline": "Nielimitowane",
+        "sms_to_national_networks": "Nielimitowane",
+        "mms_to_national_networks": "Nielimitowane",
+        "data_limit": "Brak",
+        "data_speed_after_limit": "Nie dotyczy",
+        "additional_services": [
+          "VoLTE",
+          "WiFi Calling+"
+        ]
+      }
+    },
+    {
+      "name": "Plus Plan L",
+      "description": "Abonament po czasie oznaczonym",
+      "price": "105 zł",
+      "elements": {
+        "minutes_to_mobile_and_landline": "Nielimitowane",
+        "sms_to_national_networks": "Nielimitowane",
+        "mms_to_national_networks": "Nielimitowane",
+        "data_limit": "Brak",
+        "data_speed_after_limit": "Nie dotyczy",
+        "additional_services": [
+          "VoLTE",
+          "WiFi Calling+"
+        ]
+      }
+    },
+    {
+      "name": "Pakiet Stream 2 w wersji promocyjnej",
+      "description": "Możliwość skorzystania z 2 Dostępów spośród:",
+      "price": "20 zł",
+      "elements": {
+        "additional_services": [
+          "Dostępu Disney+ (plan Standard)",
+          "Dostępu Max (przy korzystaniu do 24. Okresu rozliczeniowego obejmuje dostęp do pakietu Premium, od 25. Standard)",
+          "Dostępu SkyShowtime (subskrypcja planu Standard)",
+          "Dostępu do pakietu Polsat Box Go Premium",
+          "Dostępu do pakietu Polsat Box Go Sport"
+        ]
+      }
+    },
+    {
+      "name": "Pakiet Stream 4 w wersji promocyjnej",
+      "description": "Możliwość skorzystania z 4 Dostępów spośród:",
+      "price": "60 zł",
+      "elements": {
+        "additional_services": [
+          "Dostępu Disney+ (plan Standard)",
+          "Dostępu Max (przy korzystaniu do 24. Okresu rozliczeniowego obejmuje dostęp do pakietu Premium, od 25. Standard)",
+          "Dostępu SkyShowtime (subskrypcja planu Standard)",
+          "Dostępu do pakietu Polsat Box Go Premium",
+          "Dostępu do pakietu Polsat Box Go Sport"
+        ]
+      }
+    },
+    {
+      "name": "Dostęp Disney+ w wersji promocyjnej",
+      "description": "Dostęp Disney+ - usługa, która umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu Disney+ w ramach planu Standard.",
+      "price": "20 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp Max w wersji promocyjnej",
+      "description": "Dostęp Max - usługa, która umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu Max; przy korzystaniu do 24. Okresu rozliczeniowego Dostęp Max obejmuje dostęp do pakietu Premium, od 25. do pakietu Standard.",
+      "price": "20 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp SkyShowtime w wersji promocyjnej",
+      "description": "Usługa umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu SkyShowtime, obejmuje dostęp do subskrypcji planu Standard.",
+      "price": "20 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp Polsat Box Go Premium w wersji promocyjnej",
+      "description": "Usługa umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu Polsat Box Go w ramach pakietu Premium.",
+      "price": "20 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp Polsat Box Go Sport w wersji promocyjnej",
+      "description": "Usługa umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu Polsat Box Go w ramach pakietu Sport.",
+      "price": "brak danych",
+      "elements": {}
+    },
+    {
+      "name": "Ochrona Internetu Standard wersja na 24 miesiące",
+      "description": "Usługa świadczona przez Polkomtel zwiększająca bezpieczeństwo korzystania z dostępu do Internetu poprzez filtrowanie i blokowanie dostępu do niebezpiecznych stron internetowych.",
+      "price": "4,99 zł",
+      "elements": {}
+    },
+    {
+      "name": "Ochrona Internetu Premium wersja na 24 miesiące (na 3 urządzenia i 3 e-maile)",
+      "description": "Usługa świadczona przez Polkomtel. Program Ochrona Internetu zawiera dostęp do funkcjonalności:",
+      "price": "10 zł",
+      "elements": {
+        "additional_services": [
+          "Ochrona Urządzenia",
+          "Ochrona Przeglądania",
+          "Ochrona Rodzicielska",
+          "Monitorowanie ID",
+          "Skarbiec haseł",
+          "Anty Scam"
+        ]
+      }
+    },
+    {
+      "name": "Ochrona Internetu Ultra wersja na 24 miesiące (na 5 urządzeń i 5 e-maili)",
+      "description": "Usługa świadczona przez Polkomtel składająca się z:",
+      "price": "14,99 zł",
+      "elements": {
+        "additional_services": [
+          "Ochrona Internetu Standard",
+          "Ochrona Internetu Premium (na 5 urządzeń i 5 e-maili)",
+          "Cyber Doradca"
+        ]
+      }
+    },
+    {
+      "name": "\"Gdzie Jest Bliski\" - Pakiet Stop Hejt wersja na 24 miesiące",
+      "description": "Usługa świadczona przez Polkomtel. Pakiet Stop Hejt zawiera dostęp do funkcjonalności:",
+      "price": "4,99 zł",
+      "elements": {
+        "additional_services": [
+          "Lokalizacja",
+          "Stop Hejt",
+          "Dostęp Hejt Alert",
+          "Ochrona W sieci"
+        ]
+      }
+    },
+    {
+      "name": "\"Gdzie Jest Bliski\" - Pakiet Bezpieczna Rodzina wersja na 24 miesiące",
+      "description": "Usługa świadczona przez Polkomtel. Pakiet Bezpieczna Rodzina zawiera dostęp do funkcjonalności:",
+      "price": "14,99 zł",
+      "elements": {
+        "additional_services": [
+          "Lokalizacja automatyczna 24/7",
+          "SOS - wezwij pomoc",
+          "Stop Hejt",
+          "Dostęp Hejt Alert",
+          "Ochrona W sieci",
+          "Znajdź telefon"
+        ]
+      }
+    },
+    {
+      "name": "Dostęp Apple One „Dla Ciebie\"",
+      "description": "Umożliwia złożenie zamówienia i uzyskanie dostępu do Apple One plan „Dla Ciebie\".",
+      "price": "39,99 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp Apple One „Dla Rodziny\"",
+      "description": "Umożliwia złożenie zamówienia i uzyskanie dostępu do Apple One plan „Dla Rodziny\".",
+      "price": "49,99 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp Disney+ w wersji podstawowej",
+      "description": "Usługa, która umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu Disney+ w ramach planu Standard.",
+      "price": "29,99 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp Max w wersji podstawowej",
+      "description": "Usługa, która umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu Max w ramach pakietu Standard.",
+      "price": "29,99 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp SkyShowtime w wersji podstawowej",
+      "description": "Usługa umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu SkyShowtime, obejmuje dostęp do subskrypcji planu Standard.",
+      "price": "24,99 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp Polsat Box Go Premium w wersji podstawowej",
+      "description": "Usługa umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu Polsat Box Go w ramach pakietu Premium.",
+      "price": "30 zł",
+      "elements": {}
+    },
+    {
+      "name": "Dostęp Polsat Box Go Sport w wersji podstawowej",
+      "description": "Usługa umożliwia złożenie zamówienia i uzyskanie dostępu do Serwisu Polsat Box Go w ramach pakietu Sport.",
+      "price": "40 zł",
+      "elements": {}
+    },
+    {
+      "name": "Ochrona Internetu Standard wersja podstawowa",
+      "description": "Usługa świadczona przez Polkomtel zwiększająca bezpieczeństwo korzystania z dostępu do Internetu poprzez filtrowanie i blokowanie dostępu do niebezpiecznych stron internetowych.",
+      "price": "9 zł",
+      "elements": {}
+    },
+    {
+      "name": "Ochrona Internetu Premium wersja podstawowa (na 3 urządzenia i 3 e-maile)",
+      "description": "Usługa świadczona przez Polkomtel. Program Ochrona Internetu zawiera dostęp do funkcjonalności:",
+      "price": "17 zł",
+      "elements": {
+        "additional_services": [
+          "Ochrona Urządzenia",
+          "Ochrona Przeglądania",
+          "Ochrona Rodzicielska",
+          "Monitorowanie ID",
+          "Skarbiec haseł",
+          "Anty Scam"
+        ]
+      }
+    },
+    {
+      "name": "Ochrona Internetu Ultra wersja podstawowa (na 5 urządzeń i 5 e-maili)",
+      "description": "Usługa świadczona przez Polkomtel składająca się z:",
+      "price": "22 zł",
+      "elements": {
+        "additional_services": [
+          "Ochrona Internetu Standard",
+          "Ochrona Internetu Premium na 5 urządzeń i 5 e-maili",
+          "Cyber Doradca"
+        ]
+      }
+    },
+    {
+      "name": "Nawigacja Plus Polska",
+      "description": "Usługa świadczona przez Polkomtel umożliwiająca korzystanie przez Użytkowników Usługi z systemu lokalizacji satelitarnej (np. systemu GPS) za pośrednictwem Urządzeń Mobilnych, wykorzystaniu Usług Dodatkowych oraz Map i Aplikacji. Dostęp do map Polski.",
+      "price": "13,99 zł",
+      "elements": {}
+    },
+    {
+      "name": "Nawigacja Plus Europa",
+      "description": "Usługa świadczona przez Polkomtel, umożliwiająca korzystanie przez Użytkowników Usługi z systemu lokalizacji satelitarnej (np. systemu GPS) za pośrednictwem Urządzeń Mobilnych, wykorzystaniu Usług Dodatkowych oraz Map i Aplikacji. Dostęp do map Europy oraz map Polski.",
+      "price": "15,99 zł",
+      "elements": {}
+    },
+    {
+      "name": "Pakiet All In SIMO 3 wersja na 24 miesiące",
+      "description": "Możliwość skorzystania z świadczonych przez Polkomtel usług wchodzących w skład Pakietu:",
+      "price": "20 zł",
+      "elements": {
+        "additional_services": [
+          "Usługa Serwisowa Serwis Urządzenia w Pakiecie All In SIMO",
+          "Usługa Ochrona Internetu Standard"
+        ]
+      }
+    },
+    {
+      "name": "Usługa Serwisowa „Serwis Urządzenia SIMO 24\" wersja na 24 miesiące",
+      "description": "Usługa świadczona przez Polkomtel, obejmująca naprawę lub usunięcie skutków zalania wodą, raz w ciągu 12 Okresów rozliczeniowych, telefonu komórkowego/smartfona. Limit kwotowy naprawy - 1200 zł.",
+      "price": "15 zł/30 dni",
+      "elements": {}
+    },
+    {
+      "name": "Usługa Serwisowa „Serwis Urządzenia SIM II\" wersja podstawowa",
+      "description": "Usługa świadczona przez Polkomtel, obejmująca naprawę lub usunięcie skutków zalania wodą, raz w ciągu 12 Okresów rozliczeniowych, telefonu komórkowego/smartfona. Limit kwotowy naprawy - 1000 zł.",
+      "price": "25 zł/30 dni",
+      "elements": {}
+    },
+    {
+      "name": "Pakiet All In SIMO 3 wersja podstawowa",
+      "description": "Możliwość skorzystania z świadczonych przez Polkomtel usług wchodzących w skład Pakietu:",
+      "price": "34,99 zł",
+      "elements": {
+        "additional_services": [
+          "Usługa Serwisowa Serwis Urządzenia w Pakiecie All In SIMO",
+          "Usługa Ochrona Internetu Standard"
+        ]
+      }
+    },
+    {
+      "name": "Pakiet All In 3 wersja na 24 miesiące",
+      "description": "Możliwość skorzystania z świadczonych przez Polkomtel usług wchodzących w skład Pakietu:",
+      "price": "20 zł",
+      "elements": {
+        "additional_services": [
+          "Usługa Serwisowa Serwis Urządzenia Premium",
+          "Usługa Ochrona Internetu Standard"
+        ]
+      }
+    },
+    {
+      "name": "Usługa Serwisowa „Serwis Urządzenia 24\" wersja na 24 miesiące",
+      "description": "Usługa świadczona przez Polkomtel obejmująca naprawę lub usunięcie skutków zalania wodą, raz w ciągu 12 Okresów rozliczeniowych smartwatcha, telefonu komórkowego, smartfona, tabletu, laptopa albo telewizora kupionego od Polkomtel albo podmiotu działającego w ramach sieci sprzedaży Polkomtel. Limit kwotowy naprawy - 1200 zł.",
+      "price": "15 zł/30 dni",
+      "elements": {}
+    },
+    {
+      "name": "Usługa Serwisowa „Serwis Urządzenia Premium 24\" wersja na 24 miesiące",
+      "description": "Usługa świadczona przez Polkomtel obejmująca naprawę lub usunięcie skutków zalania wodą, raz w ciągu 12 Okresów rozliczeniowych, smartwatcha, telefonu komórkowego, smartfona, tabletu, laptopa albo telewizora kupionego od Polkomtel albo podmiotu działającego w ramach sieci sprzedaży Polkomtel. Pokrycie kosztów naprawy do wartości urządzenia.",
+      "price": "20 zł/30 dni",
+      "elements": {}
+    },
+    {
+      "name": "Usługa Serwisowa „Serwis Urządzenia III\" wersja podstawowa",
+      "description": "Usługa świadczona przez Polkomtel obejmująca naprawę lub usunięcie skutków zalania wodą, raz w ciągu 12 Okresów rozliczeniowych, smartwatcha, telefonu komórkowego, smartfonu, tabletu, laptopa lub telewizora kupionego od Polkomtel albo podmiotu działającego w ramach sieci sprzedaży Polkomtel. Limit kwotowy naprawy – 1000 zł.",
+      "price": "25 zł/30 dni",
+      "elements": {}
+    },
+    {
+      "name": "Pakiet All In 3 wersja podstawowa",
+      "description": "Możliwość skorzystania z świadczonych przez Polkomtel usług wchodzących w skład Pakietu:",
+      "price": "34,99 zł",
+      "elements": {
+        "additional_services": [
+          "Usługa Serwisowa Serwis Urządzenia Premium",
+          "Usługa Ochrona Internetu Standard"
+        ]
+      }
+    }
+  ]
+}

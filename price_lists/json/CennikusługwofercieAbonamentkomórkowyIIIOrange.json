@@ -1,0 +1,69 @@
+{
+  "operator": {
+    "name": "Orange",
+    "services": [
+      "telefon komórkowy"
+    ],
+    "publication_date": "2024-11-10",
+    "valid_until": "2025-05-15",
+    "currency": "PLN"
+  },
+  "offers": [
+    {
+      "name": "XS",
+      "description": "Abonament",
+      "price": 65.00,
+      "services": {
+        "calls_to_mobile_and_landline": "unlimited",
+        "sms_mms_to_all_networks": "unlimited",
+        "data_limit_in_poland": "5 GB",
+        "mobile_tv": "no",
+        "5g": "yes"
+      }
+    },
+    {
+      "name": "S",
+      "description": "Abonament",
+      "price": 80.00,
+      "services": {
+        "calls_to_mobile_and_landline": "unlimited",
+        "sms_mms_to_all_networks": "unlimited",
+        "data_limit_in_poland": "50 GB",
+        "mobile_tv": "yes",
+        "5g": "yes"
+      }
+    },
+    {
+      "name": "M",
+      "description": "Abonament",
+      "price": 90.00,
+      "services": {
+        "calls_to_mobile_and_landline": "unlimited",
+        "sms_mms_to_all_networks": "unlimited",
+        "data_limit_in_poland": "150 GB",
+        "mobile_tv": "yes",
+        "5g": "yes"
+      }
+    },
+    {
+      "name": "L",
+      "description": "Abonament",
+      "price": 110.00,
+      "services": {
+        "calls_to_mobile_and_landline": "unlimited",
+        "sms_mms_to_all_networks": "unlimited",
+        "data_limit_in_poland": "300 GB",
+        "mobile_tv": "yes",
+        "5g": "yes"
+      }
+    }
+  ],
+  "additional_fees": [
+    {
+      "description": "Activation fee",
+      "price": 350.00
+    }
+  ],
+  "ocr_performed": true,
+  "ocr_details": "OCR was performed on all pages."
+}

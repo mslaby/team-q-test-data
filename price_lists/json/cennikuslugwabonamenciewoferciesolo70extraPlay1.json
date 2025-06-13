@@ -1,0 +1,103 @@
+{
+  "metadane": {
+    "operator": "PLAY (P4 Sp. z o.o.)",
+    "uslugi": [
+      "telefon komórkowy",
+      "roaming",
+      "SMS/MMS",
+      "internet mobilny"
+    ],
+    "data_publikacji": "15 maja 2025",
+    "jezyk": "polski",
+    "waluta": "PLN",
+    "źródło": "Cennik usług w abonamencie w ofercie SOLO 7.0 extra"
+  },
+  "oferty": [
+    {
+      "nazwa": "SOLO S II",
+      "elementy": [
+        {
+          "nazwa": "SOLO S II / SOLO 7.0 extra",
+          "cena": "45 zł",
+          "okres_rozliczeniowy": "Od 1 do 24",
+          "abonament_bez_rabatow": "45 zł",
+          "abonament_po_rabatach": "35 zł",
+          "uwagi": "Abonament po rabatach za e-fakturę, terminowe płatności oraz zgody marketingowe i na profilowanie"
+        },
+        {
+          "nazwa": "SOLO S II / SOLO 7.0 extra",
+          "cena": "45 zł",
+          "okres_rozliczeniowy": "Od 25",
+          "abonament_bez_rabatow": "45 zł",
+          "abonament_po_rabatach": "45 zł",
+          "uwagi": "Abonament po rabatach za e-fakturę, terminowe płatności oraz zgody marketingowe i na profilowanie"
+        }
+      ],
+      "uslugi_w_ramach_abonamentu": {
+        "minuty": "Nielimitowane do wszystkich sieci komórkowych i stacjonarnych",
+        "sms_mms": "Nielimitowane SMS-y/MMS-y",
+        "internet": "15 GB",
+        "strefa_euro": "13,08 GB - zużycie pomniejsza pakiet dostępny w Polsce. Po wykorzystaniu Limitu - 6,88 zł za 1 GB (naliczanie co 1 kB)."
+      }
+    },
+    {
+      "nazwa": "SOLO 7.0 extra",
+      "elementy": [
+        {
+          "nazwa": "SOLO SII/SOLO 7.0 extra",
+          "cena": "50 zł",
+          "okres_rozliczeniowy": "z urządzeniem w promocyjnej cenie z Umową na 24 miesiące",
+          "abonament_bez_rabatow": "50 zł",
+          "abonament_po_rabatach": "40 zł",
+          "uwagi": "Abonament po rabatach za e-fakturę, terminowe płatności oraz zgody marketingowe i na profilowanie"
+        },
+        {
+          "nazwa": "SOLO SII/SOLO 7.0 extra",
+          "cena": "55 zł",
+          "okres_rozliczeniowy": "z urządzeniem w promocyjnej cenie z Umową na 24 miesiące",
+          "abonament_bez_rabatow": "55 zł",
+          "abonament_po_rabatach": "45 zł",
+          "uwagi": "Abonament po rabatach za e-fakturę, terminowe płatności oraz zgody marketingowe i na profilowanie"
+        },
+        {
+          "nazwa": "SOLO SII/SOLO 7.0 extra",
+          "cena": "60 zł",
+          "okres_rozliczeniowy": "z urządzeniem w promocyjnej cenie z Umową na 24 miesiące",
+          "abonament_bez_rabatow": "60 zł",
+          "abonament_po_rabatach": "50 zł",
+          "uwagi": "Abonament po rabatach za e-fakturę, terminowe płatności oraz zgody marketingowe i na profilowanie"
+        },
+        {
+          "nazwa": "SOLO SII/SOLO 7.0 extra",
+          "cena": "65 zł",
+          "okres_rozliczeniowy": "z urządzeniem w promocyjnej cenie z Umową na 24 miesiące",
+          "abonament_bez_rabatow": "65 zł",
+          "abonament_po_rabatach": "55 zł",
+          "uwagi": "Abonament po rabatach za e-fakturę, terminowe płatności oraz zgody marketingowe i na profilowanie"
+        },
+        {
+          "nazwa": "SOLO SII/SOLO 7.0 extra",
+          "cena": "70 zł",
+          "okres_rozliczeniowy": "z urządzeniem w promocyjnej cenie z Umową na 24 miesiące",
+          "abonament_bez_rabatow": "70 zł",
+          "abonament_po_rabatach": "60 zł",
+          "uwagi": "Abonament po rabatach za e-fakturę, terminowe płatności oraz zgody marketingowe i na profilowanie"
+        },
+        {
+          "nazwa": "SOLO SII/SOLO 7.0 extra",
+          "cena": "75 zł",
+          "okres_rozliczeniowy": "z urządzeniem w promocyjnej cenie z Umową na 24 miesiące",
+          "abonament_bez_rabatow": "75 zł",
+          "abonament_po_rabatach": "65 zł",
+          "uwagi": "Abonament po rabatach za e-fakturę, terminowe płatności oraz zgody marketingowe i na profilowanie"
+        }
+      ],
+      "uslugi_w_ramach_abonamentu": {
+        "minuty": "Nielimitowane do wszystkich sieci komórkowych i stacjonarnych",
+        "sms_mms": "Nielimitowane SMS-y/MMS-y",
+        "internet": "15 GB",
+        "strefa_euro": "13,08 GB - zużycie pomniejsza pakiet dostępny w Polsce. Po wykorzystaniu Limitu - 6,88 zł za 1 GB (naliczanie co 1 kB)."
+      }
+    }
+  ]
+}

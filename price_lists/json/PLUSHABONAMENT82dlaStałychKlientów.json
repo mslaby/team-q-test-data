@@ -1,0 +1,95 @@
+{
+  "operator": {
+    "name": "PLUSH",
+    "services": [
+      "telefon komórkowy",
+      "internet mobilny"
+    ],
+    "publication_date": "10/06/2025",
+    "currency": "PLN",
+    "source": "CENNIK USŁUG KOMUNIKACJI ELEKTRONICZNEJ „PLUSH ABONAMENT 8.2 dla Stałych Klientów”",
+    "operator_details": "Polkomtel sp. z o.o. z siedzibą w Warszawie, ul. Konstruktorska 4, 02-673 Warszawa, zarejestrowana przez Sąd Rejonowy dla m. st. Warszawy, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod nr KRS: 0000419430, NIP: 527-10-37-727, REGON: 011307968, kapitał zakładowy 2.360.069.800,00 zł."
+  },
+  "plans": [
+    {
+      "name": "PLUSH S",
+      "monthly_fee": "35 zł",
+      "details": {
+        "minutes_to_mobile_and_landline": "bez limitu",
+        "sms_to_mobile": "bez limitu",
+        "mms_to_mobile": "bez limitu",
+        "data_limit": "40 GB",
+        "data_limit_after_7_months": "80 GB",
+        "data_limit_after_13_months": "160 GB",
+        "data_limit_after_25_months": "200 GB",
+        "max_data_speed_after_limit": "32 kb/s",
+        "additional_services": [
+          "brak"
+        ]
+      },
+      "additional_discounts": [
+        {
+          "type": "e-faktura",
+          "discount": "10 zł"
+        }
+      ]
+    },
+    {
+      "name": "PLUSH S+",
+      "monthly_fee": "40 zł",
+      "details": {
+        "minutes_to_mobile_and_landline": "bez limitu",
+        "sms_to_mobile": "bez limitu",
+        "mms_to_mobile": "bez limitu",
+        "data_limit": "60 GB",
+        "data_limit_after_7_months": "120 GB",
+        "data_limit_after_13_months": "180 GB",
+        "data_limit_after_25_months": "250 GB",
+        "max_data_speed_after_limit": "32 kb/s",
+        "additional_services": [
+          "brak"
+        ]
+      },
+      "additional_discounts": [
+        {
+          "type": "e-faktura",
+          "discount": "10 zł"
+        }
+      ]
+    },
+    {
+      "name": "PLUSH M",
+      "monthly_fee": "50 zł",
+      "details": {
+        "minutes_to_mobile_and_landline": "bez limitu",
+        "sms_to_mobile": "bez limitu",
+        "mms_to_mobile": "bez limitu",
+        "data_limit": "80 GB",
+        "data_limit_after_7_months": "160 GB",
+        "data_limit_after_13_months": "200 GB",
+        "data_limit_after_25_months": "300 GB",
+        "max_data_speed_after_limit": "32 kb/s",
+        "additional_services": [
+          "dostępna"
+        ]
+      },
+      "additional_discounts": [
+        {
+          "type": "e-faktura",
+          "discount": "10 zł"
+        },
+        {
+          "type": "Abonament... na pół!",
+          "discount": "50%"
+        }
+      ]
+    }
+  ],
+  "additional_services": [
+    {
+      "name": "PLUSH INTERNET EXTRA 5GB",
+      "price": "5 zł",
+      "data_limit": "5 GB"
+    }
+  ]
+}

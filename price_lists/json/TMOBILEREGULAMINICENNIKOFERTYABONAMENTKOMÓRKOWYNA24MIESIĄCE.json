@@ -1,0 +1,46 @@
+{
+  "operator": "T-Mobile Polska S.A.",
+  "services": [
+    "Telefon komórkowy",
+    "Internet mobilny"
+  ],
+  "publication_date": "20.05.2025",
+  "language": "polski",
+  "currency": "PLN",
+  "offers": [
+    {
+      "name": "M NIELIMITOWANA",
+      "description": "Abonament komórkowy na 24 miesiące. Korzyści dla domu. Oferta dedykowana dla WWW (R24)",
+      "price_per_month": 70,
+      "price_without_discount": 80,
+      "contract_duration": "24 miesiące",
+      "minutes": "Nielimitowane na numery komórkowe i stacjonarne w kraju i roamingu UE+",
+      "sms": "Nielimitowane w kraju i roamingu UE+",
+      "data_transfer": {
+        "limit": "Internet Bez Limitu Danych do 60 Mb/s",
+        "additional_service": "Internet Bez Limitu Max"
+      },
+      "additional_services": [
+        "MagentaRozrywka – Rozrywka bez Ograniczeń (0 zł przez 1 mies.)"
+      ],
+      "code": "HR24_MBL1_INL_E"
+    },
+    {
+      "name": "L NIELIMITOWANA",
+      "description": "Abonament komórkowy na 24 miesiące. Korzyści dla domu. Oferta dedykowana dla WWW (R24)",
+      "price_per_month": 90,
+      "price_without_discount": 100,
+      "contract_duration": "24 miesiące",
+      "minutes": "Nielimitowane na numery komórkowe i stacjonarne w kraju i roamingu UE+",
+      "sms": "Nielimitowane w kraju i roamingu UE+",
+      "data_transfer": {
+        "limit": "Internet Bez Limitu Danych do 60 Mb/s",
+        "additional_service": "Internet Bez Limitu Max"
+      },
+      "additional_services": [
+        "MagentaRozrywka – Rozrywka bez Ograniczeń (0 zł przez 1 mies.)"
+      ],
+      "code": "HR24_LBL1_INL_E"
+    }
+  ]
+}
